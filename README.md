@@ -1,2 +1,2 @@
-# bharat-intern-tasks
- Bharat Intern Project Tasks
+# intern-tasks
+Internship Project Tasks
